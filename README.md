@@ -1,7 +1,7 @@
 # AWS EKS 
 
 ## Introduction:
-Deploy a real-time 2048 game application and expose it to outside world using Ingress and ALB Ingress Controller
+Deploy a real-time 2048 game application and expose it to the outside world using Ingress and ALB Ingress Controller
 
 ## Table of Contents:
 
